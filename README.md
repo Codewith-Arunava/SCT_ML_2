@@ -17,7 +17,6 @@ The app allows you to:
 - **Matplotlib integration** for charts.
 - **Customer count per cluster** in the plot legend.
 
-
 ## 🛠 Tech Stack
 - **Python 3**
 - **Tkinter** – GUI
