@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
-
+ 
 # Load dataset
 df = pd.read_csv("4fcb1ef2-7c7e-4ce6-bc0d-88ad962dc3da.csv")
 
